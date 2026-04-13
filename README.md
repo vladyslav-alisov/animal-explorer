@@ -67,10 +67,13 @@ Explore 12 unique animals with beautiful, soft-textured illustrations. Each card
 
 ## 📸 Screenshots
 
-| Home Screen | Quiz Screen | Match Game | Animal Detail Screen | Encyclopedia Screen |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Home Screen](screenshots/main_screen.png) | ![Quiz Screen](screenshots/quiz.png) | ![Match Game](screenshots/match_game.png) | ![Animal Detail Screen](screenshots/animal.png) | ![Encyclopedia Screen](screenshots/encyclopedia.png) |
+| Home Screen | Quiz Screen | Match Game | Animal Detail Screen | Encyclopedia Screen
+|:---:|:---:|:---:|:---:|:---:
+| ![Home Screen](screenshots/main_screen.png) | ![Quiz Screen](screenshots/quiz.png) | ![Match Game](screenshots/match_game.png) | ![Animal Detail Screen](screenshots/animal.png) | ![Encyclopedia Screen](screenshots/encyclopedia.png)
 ---
+
+## 🎥 Video Demonstration
+<video src="https://github.com/user-attachments/assets/a3bf8b8c-6eb8-4072-a204-42bea69941ee" controls width="100%"></video>
 
 ## 📂 Project Structure
 
@@ -80,5 +83,9 @@ Explore 12 unique animals with beautiful, soft-textured illustrations. Each card
 - `lib/screens`: All 5 core sections of the application.
 - `lib/theme`: Global design tokens and styles.
 - `assets/images/animals`: Custom animal illustrations.
+
+
+
+
 
 
