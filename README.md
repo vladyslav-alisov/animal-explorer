@@ -67,10 +67,9 @@ Explore 12 unique animals with beautiful, soft-textured illustrations. Each card
 
 ## 📸 Screenshots
 
-| Home Screen | Quiz Screen | Match Game | Animal Detail Screen | Encyclopedia Screen
-|:---:|:---:|:---:|:---:|:---:
-| ![Home Screen](screenshots/main_screen.png) | ![Quiz Screen](screenshots/quiz.png) | ![Match Game](screenshots/match_game.png) | ![Animal Detail Screen](screenshots/animal.png) | ![Encyclopedia Screen](screenshots/encyclopedia.png)
----
+| Home Screen | Quiz Screen | Match Game | Animal Detail Screen | Encyclopedia Screen |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="screenshots/main_screen.png" width="180"/> | <img src="screenshots/quiz.png" width="180"/> | <img src="screenshots/match_game.png" width="180"/> | <img src="screenshots/animal.png" width="180"/> | <img src="screenshots/encyclopedia.png" width="180"/> |
 
 ## 🎥 Video Demonstration
 <video src="https://github.com/user-attachments/assets/a3bf8b8c-6eb8-4072-a204-42bea69941ee" controls width="100%"></video>
